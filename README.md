@@ -1,4 +1,4 @@
-                          <div align="center">
+<div align="center">
 <img src="https://github.com/s403o/s403o/blob/master/sudo.gif" /> 
 <p align="center">
 	
