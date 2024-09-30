@@ -1,4 +1,6 @@
-🌟 Welcome to Naveen's GitHub Profile! 🌟
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+Kammari!;+A+DevOps+and+DevSecOps+Engineer!" />
+</h1>
 
 Hello! I’m **Naveen**, a dedicated **DevOps Engineer** with over 6 years of experience in building and maintaining scalable infrastructure, CI/CD pipelines, and automating cloud-native solutions. I’m passionate about leveraging cutting-edge technologies like **Kubernetes**, **AWS**, **Terraform**, and **Docker** to solve  operational challenges.
 
