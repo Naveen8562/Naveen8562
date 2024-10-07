@@ -20,17 +20,18 @@ I’m deeply committed to learning and contributing to the tech community. From 
 
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?logo=jenkins&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github-actions&style=flat-square)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-black?logo=gitlab&style=flat-square)
 
-- **Languages**: Python, Bash, 
+
+- **CI/CD**: Jenkins, GitLab, CircleCI
 - **Infrastructure as Code**: Terraform, CloudFormation
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Monitoring & Logging**: Prometheus, Grafana, Newrelic
 - **Cloud Providers**: AWS
-- **CI/CD**: Jenkins, GitLab , GitHub Actions, CircleCI
 - **Containers & Orchestration**: Docker, Kubernetes, Helm
+- **Languages**: Bash
 
 ---
 
